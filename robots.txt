@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-z6pe35.wdbos8aud.lat/sitemap.xml
